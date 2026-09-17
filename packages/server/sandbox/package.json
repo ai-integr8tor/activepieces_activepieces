@@ -13,7 +13,7 @@
     "@activepieces/core-utils": "workspace:*",
     "@activepieces/server-utils": "workspace:*",
     "@activepieces/shared": "workspace:*",
-    "nanoid": "3.3.17",
+    "nanoid": "3.3.18",
     "socket.io": "4.7.5",
     "tree-kill": "1.2.2",
     "tslib": "2.6.2",
@@ -23,6 +23,6 @@
     "@types/write-file-atomic": "4.0.3",
     "@types/node": "24.11.0",
     "socket.io-client": "4.8.1",
-    "vitest": "3.2.6"
+    "vitest": "4.1.11"
   }
 }

@@ -107,7 +107,7 @@
     "vite-plugin-checker": "0.7.2",
     "vite-plugin-html": "3.2.2",
     "vite-tsconfig-paths": "5.1.4",
-    "vitest": "3.2.6",
+    "vitest": "4.1.11",
     "wait-on": "7.2.0",
     "webpack": "5.104.1",
     "webpack-cli": "5.1.4"
